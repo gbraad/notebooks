@@ -2,6 +2,10 @@
 
 A collection of notebooks for use with Jupyter or VSCode
 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gbraad/notebooks)
+
+
 ## Contens
 
   * `pygame`
