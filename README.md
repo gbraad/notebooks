@@ -1,4 +1,8 @@
-# Notebooks
+Gerard Braad's notebooks
+========================
+
+!["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
+
 
 A collection of notebooks for use with Jupyter or VSCode
 
